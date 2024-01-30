@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  Test de commit pour le déploiement cloudflare
 </template>
 
 <style scoped>
